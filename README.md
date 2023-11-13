@@ -1,4 +1,4 @@
-# monday
+# BMI CALCULATOR
 
 A new Flutter project.
 
